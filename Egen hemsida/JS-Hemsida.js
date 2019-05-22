@@ -1,31 +1,5 @@
 // Javascript till hemsida
-/*
-Läser in frånvaro i förmatet 
-2018-01-23	Engelska 5	1-Okänd orsak	 	08:20	09:40	1:20
- 	Samhällskunskap 1b	1-Okänd orsak	 	10:00	11:20	1:20
- 	Moderna språk 1 (Franska)	1-Okänd orsak	 	11:30	12:20	0:50
- 	Matematik 1b	1-Okänd orsak	 	13:30	14:50	1:20
-2018-01-25	Naturkunskap 1b	1-Okänd orsak	 	08:20	09:40	1:20
- 	Psykologi 1	1-Okänd orsak	 	10:00	11:20	1:20
- 	Matematik 1b	1-Okänd orsak	 	12:00	13:20	1:20
- 	Idrott och hälsa 1	1-Okänd orsak	 	13:40	14:40	1:00
 
-	Och sedan tar den ut den ogiltiga frånvaron och konvertar datumet (2018-01-25) till vecka och veckordag.
-	All frånvaro för samma dag läggs såklart i hop.
-	Frånvaron läggs i en tabell längst ned på sidan.
-
-*/
-
-// nu ska mest koden snyggas till
-//sedan är det layout som gäller
-// ta 2-3 elever och kontrollera att det stämmer. alternativt skapa ett test för 
-// lägga upp den på ett webhotell? reklam?
-
-//$("#tabell").hide(); // gömmer tabellen (den tas fram sen om den inte är tom) annars detta
-// https://www.w3schools.com/howto/howto_js_toggle_hide_show.asp
- // det  är något galet här
-//alert(x.innerHTML); // foundit ! https://stackoverflow.com/questions/2632137/why-is-document-getelementbyid-returning-null
-//
 window.onload = function () {
     var tabellRef =document.getElementById("tabell");
 	tabellRef.style.display="none"; // gömmer tabellen
