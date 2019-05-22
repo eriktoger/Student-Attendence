@@ -1,0 +1,22 @@
+2018-08-15	MENTOR	1-Okänd orsak	 	13:00	15:00	2:00
+2018-08-24	Entreprenörskap	1-Okänd orsak	 	08:20	09:35	1:15
+2018-09-03	Svenska som andraspråk 2	Beviljad ledighet	besök hos vårdcentral	11:20	12:40	0:10
+2018-09-04	Kommunikation	Frånvaroanmälan	sjukanmäld	11:40	12:40	1:00
+ 	Engelska 6	Frånvaroanmälan	sjukanmäld	15:10	16:20	1:10
+2018-09-06	Samhällskunskap 2	1-Okänd orsak	 	10:00	11:25	1:25
+2018-09-07	Samhällskunskap 2	1-Okänd orsak	 	13:10	14:20	1:10
+ 	Psykologi 2a	1-Okänd orsak	 	14:25	15:40	1:15
+2018-09-11	MENTOR	1-Okänd orsak	 	13:20	13:50	0:30
+2018-09-13	Samhällskunskap 2	1-Okänd orsak	 	10:00	11:25	1:25
+2018-09-14	Entreprenörskap	2-Försenad	 	08:00	09:55	0:45
+2018-09-18	MENTOR	Frånvaroanmälan	Sjuk	09:40	10:00	0:20
+ 	Matematik 2b	Frånvaroanmälan	Sjuk	10:00	11:15	1:15
+ 	Kommunikation	Frånvaroanmälan	Sjuk	11:40	12:40	1:00
+ 	Sociologi	Frånvaroanmälan	Sjuk	14:05	15:05	1:00
+2018-09-19	Matematik 2b	Frånvaroanmälan	Sjuk	10:00	11:15	1:15
+ 	Kommunikation	Frånvaroanmälan	Sjuk	11:25	12:45	1:20
+ 	Svenska som andraspråk 2	Frånvaroanmälan	Sjuk	13:45	15:05	1:20
+2018-09-21	Entreprenörskap	Frånvaroanmälan	Sjuk	08:00	09:55	1:55
+ 	Moderna språk 2 (Franska)	Frånvaroanmälan	Sjuk	11:20	12:30	1:10
+ 	Psykologi 2a	Frånvaroanmälan	Sjuk	14:25	15:40	1:15
+2018-09-25	MENTOR	1-Okänd orsak	 	09:40	10:00	0:20

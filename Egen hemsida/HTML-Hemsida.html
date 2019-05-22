@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>IST till CSN</title>
+	<link rel="stylesheet" type="text/css" href="CSS-Hemsida.css">
+    <script type ="text/javascript" src ="JS-Hemsida.js"></script>
+	
+</head>
+<body id="public">
+
+<header>
+    
+	<!--<img class="logga" src="blueswhirlpart.png" alt="logga"/>-->
+	<br>
+	<span class="overskrift">IST till CSN </span>
+	
+	<p class="underrubrik">En snabb och effektiv konvertering</p>
+	
+    <br>	
+</header>
+<!--  borde bli en lista-->
+<div class="side">
+<p id="information" class="rubrik"> Vad gör programmet?</p>
+<ul>
+  <li>Konvertar från datum till vecka och veckodag</li>
+  <li>Endast ogiltig frånvaro kommer med</li>
+  <li>Konverterar minuter till hela timmar och avrundar till en decimal</li>
+</ul>
+</div>
+
+<div class="side">
+<p id="instruktioner" class="rubrik"> Instruktioner:</p>
+<ul>
+  <li>Klistra in frånvaron från IST i rutan här under!</li>
+  <li>Klicka sedan på knappen "Konvertera"</li>
+  <li>Din konvertering kommer längre ned på sidan</li>
+</ul>
+</div>
+<li class="buttons ">
+                <div>
+                    <input id="franvaro" name="franvaro" class="btTxt submit" type="submit" value="Konvertera"/>
+                </div>
+				
+</li>
+
+<br>
+
+<li id="foli5" class=" ">
+                <!-- <label class="desc" for="field_message">Instruktioner: <br>Klistra bara in frånvaron från IST i rutan här under! <br>Klicka sedan på knappen "Konvertera". <br> Din konvertering kommer längre ned på sidan. </label> -->
+
+                <div>
+                    <textarea id="ruta" name="ruta" cols="120" rows="20" tabindex="22"></textarea>
+                </div>
+            </li>
+
+<br>
+
+<br>
+
+<div id="divTabell">
+<table id="tabell" class="table">
+            <thead>
+            <tr>
+                <th>Vecka</th>
+				<th>Måndag</th>
+				<th>Tisdag</th>
+				<th>Onsdag</th>
+				<th>Torsdag</th>
+				<th>Fredag</th>
+				<th>Lördag</th>
+				<th>Söndag</th>
+            </tr>
+            </thead>
+            <tbody>
+			
+
+            </tbody>
+			
+</table>
+</div>
+<p id="botten"> <br><br><br> </p>
+
+
+
+</body>
+</html>
